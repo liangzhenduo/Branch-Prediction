@@ -1,6 +1,6 @@
 #Hint
 
-If you got a compile error in Ubuntu, just try
+If you've got compile error in Ubuntu, just try
 
 `sudo apt-get install g++-4.8-multilib`
 
